@@ -1,2 +1,2 @@
 #!/bin/bash
-echo alias ls="ls -al"
+echo alias ls="ls -l"
